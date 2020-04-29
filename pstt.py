@@ -19,3 +19,4 @@ else:
 c=c+v-2
 print("esto es el resultado de la suma y las resta de 2 de los dos numero q metiste {}".format(c))
 print("esto solo e una puevita")
+#este comentario veos i hace dar conflicto
